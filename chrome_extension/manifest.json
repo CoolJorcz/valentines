@@ -1,14 +1,14 @@
 {
-  "name": "Christmasfy",
-  "version": "1.12",
+  "name": "Valentize",
+  "version": "1.0.1",
   "homepage_url": "http://xmasfy.us/",
-  "description": "Transform any website to bring Christmas to you instantly with click events, picture replacement, and music.",
-  "icons": { "16"  : "img/hat_16.png",
-             "48"  : "img/hat_48.png",
-             "128" : "img/hat_128.png"},
+  "description": "From the maker of Christmasfy: Transform any website to bring Valentine's Day to you instantly.",
+  "icons": { "16"  : "img/arrow_16.png",
+             "48"  : "img/arrow_48.png",
+             "128" : "img/arrow_128.png"},
   "browser_action": {
-    "default_icon": "hat_128.png",
-    "default_title": "Christmasfy"
+    "default_icon": "arrow_128.png",
+    "default_title": "Valentize"
   },
 
   "permissions": [
