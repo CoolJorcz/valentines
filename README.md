@@ -7,5 +7,5 @@ https://chrome.google.com/webstore/detail/christmasfy/aaddgodckkibehbkcmfklgbkdh
 
 UPDATES 02/14:
 
-- Uploading this.
+- Initial Upload
 
